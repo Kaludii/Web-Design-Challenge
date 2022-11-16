@@ -3,9 +3,9 @@ title: "Module 11 Web-Design-Challenge"
 ---
 
 ### Site
-To test out the site that was created, click ["here"](edit with site URL)!
+To test out the site that was created, click ["here"](https://kaludii.github.io/Web-Design-Challenge/)!
 
-#Click [Here](edit with site URL "Here") to view site!
+#Click [Here](https://kaludii.github.io/Web-Design-Challenge/) to view site!
 
 ### Instructions
 
