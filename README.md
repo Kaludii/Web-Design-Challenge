@@ -3,7 +3,7 @@ title: "Module 11 Web-Design-Challenge"
 ---
 
 # Site
-#Click [Here](https://kaludii.github.io/Web-Design-Challenge/ "Here") To View Site!
+Click [Here](https://kaludii.github.io/Web-Design-Challenge/ "Here") To View Site!
 
 ### Instructions
 
