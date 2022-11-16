@@ -65,31 +65,31 @@ This section contains screenshots of each page, at various screen widths, that y
 
 ##### <a id="landing-page"></a>Landing Page
 
-* ![Large screen landing page](edit url path to GitHub)
+* ![Large screen landing page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Large%20screen%20landing%20page.png?raw=true)
 
-* ![Small screen landing page](edit url path to GitHub)
+* ![Small screen landing page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Small%20screen%20landing%20page.png?raw=true)
 ￼
 ##### <a id="comparisons-page"></a>Comparisons Page
 
-* ![Large screen comparison page](edit url path to GitHub)
+* ![Large screen comparison page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Large%20screen%20comparison%20page.png?raw=true)
 
-* ![Small screen comparison page](edit url path to GitHub)
+* ![Small screen comparison page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Small%20screen%20comparison%20page.png?raw=true)
 
 ##### <a id="data-page"></a>Data Page
 
-* ![Large screen data page](edit url path to GitHub)
+* ![Large screen data page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Large%20screen%20data%20page.png?raw=true)
 
-* ![Small screen data page](edit url path to GitHub)
+* ![Small screen data page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Small%20screen%20data%20page.png?raw=true)
 
 ##### <a id="visualization-pages"></a>Visualization Pages
 
-* ![Large screen visualization page](edit url path to GitHub)
+* ![Large screen visualization page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Large%20screen%20visualization%20page.png?raw=true)
 
-* ![Small screen visualization page](edit url path to GitHub)
+* ![Small screen visualization page](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Small%20screen%20visualization%20page.png?raw=true)
 
 ##### <a id="navigation-bar"></a>Navigation Bar
 
-* ![Large screen navigation bar](edit url path to GitHub)
+* ![Large screen navigation bar](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Large%20screen%20navigation%20bar.png?raw=true)
 
-* ![Small screen navigation bar](edit url path to GitHub)
+* ![Small screen navigation bar](https://github.com/Kaludii/Web-Design-Challenge/blob/main/Resources/assets/screenshots/Small%20screen%20navigation%20bar.png?raw=true)
 
