@@ -3,35 +3,114 @@
   <head>
 
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Add a title here -->
+    <title>Bootstrap Visualization Dashboard</title>
 
     <!-- Boostrap Stylesheet -->
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="../Resources/assets/css/bootstrap.min.css">
 
     <!-- Our own CSS stylesheet -->
-    <link rel="stylesheet" href="../assets/css/styles.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../Resources/assets/css/styles.css">
 
   </head>
 
   <body>
     <!-- Start of navbar -->
+    <div class="navigation">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" style="background-color: rgb(255,255,255);" href="../index.html">LATITUDE</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav ml-auto">
+                  <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          PLOTS
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <a class="dropdown-item" href="../visualizations/temp.html">Max Temperature</a>
+                          <a class="dropdown-item" href="../visualizations/humidity.html">Humidity</a>
+                          <a class="dropdown-item" href="../visualizations/cloudiness.html">Cloudiness</a>
+                          <a class="dropdown-item" href="../visualizations/wind.html">Wind Speed</a>
+                      </div>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="../comparison.html">COMPARISON</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="../data.html">DATA</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="https://github.com/kaludii/Web-Design-Challenge">GITHUB</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/Kaludii/python-api-challenge/tree/main/WeatherPy">WEATHERPY SOURCE</a>
+                </li>
+              </ul>
+          </div>
+      </nav>
+  </div>
     <!-- End of navbar -->
 
     <!-- Start of container -->
 
-          <!-- Start of Visualizations imageNav Area -->
-          <!-- End of the Visualizations imageNav Area -->
+    <div class="container">
+      <div class="row">
+          <div class="col-lg-7 col-md-12">
+              <div class="box">
+                  <h3 class="title">CITY LATITUDE VS. HUMIDITY</h3>
+                  <hr>
+                  <img src="../Resources/assets/images/latitude_vs_humidity_2.png" class="vizualization rounded float-left" alt="Humidity Graph">
+                  <p>From the Latitude vs Humidity plot above, the data from all the cities shows that Humidity is pretty 
+                    spread out from the data points, however, most of the Humidity is above 60%, with the highest Percentage 
+                    of Humidity occuring in Latitudes 60-80.<br><br></p>
+              </div>
+          </div>
+          <div class="col-lg-5 col-md-12">
+              <div class="box">
+                <h3 class="title">VISUALIZATIONS</h3>
+                <hr>
+                <div class="container">
+                    <div class="row" style="padding-bottom: 70px;">
+                        <div class="col-6">
+                            <div class="title">City Latitude vs. Max Temperature</div>
+                            <a href="../visualizations/temp.html">
+                            <img class="panel" src="../Resources/assets/images/latitude_vs_max_temp_1.png" alt="City Latitude vs Max Temperature">
+                            </a>
+                        </div>
+                        <div class="col-6">
+                            <div class="title">City Latitude vs. Humidity</div>
+                            <a href="../visualizations/humidity.html">
+                            <img class="panel" src="../Resources/assets/images/latitude_vs_humidity_2.png" alt="City Latitude vs Humidity">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row" style="padding-bottom: 70px;">
+                        <div class="col-6">
+                            <div class="title">City Latitude vs. Cloudiness</div>
+                            <a href="../visualizations/cloudiness.html">
+                            <img class="panel" src="../Resources/assets/images/latitude_vs_cloudiness_3.png" alt="City Latitude vs Cloudiness">
+                            </a>
+                        </div>
+                        <div class="col-6">
+                            <div class="title">City Latitude vs. Wind Speed</div>
+                            <a href="../visualizations/wind.html">
+                                <img class="panel" src="../Resources/assets/images/latitude_vs_wind_speed_4.png" alt="City Latitude vs Wind Speed">
+                            </a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
 
     <!-- End of container -->
 
-    <!-- jQuery CDN -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-
-    <!-- Bootstrap CDN -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="../Resources/assets/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="../Resources/assets/js/bootstrap.min.js"></script>
   </body>
 
 </html>

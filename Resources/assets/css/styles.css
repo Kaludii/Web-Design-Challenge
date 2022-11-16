@@ -1,0 +1,73 @@
+.navbar {
+  max-height: 50px;
+}
+.navigation .navbar-brand {
+  color: #07f7f7;
+  background-image: linear-gradient(to right, rgb(177, 42, 255) , rgb(255, 144, 240));
+  padding: inherit;
+  font-weight: bold;
+  font-family: Verdana;
+}
+.navbar {
+  background-image: linear-gradient(to right, rgb(137, 218, 255) , rgb(255, 206, 249));
+  font-size: 20px; 
+}
+
+body {
+  background-image: linear-gradient(to right, rgb(0, 174, 255) , rgb(255, 0, 221));
+}
+
+.dropdown-item {
+  color: #07f7f7;
+}
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+  background-color: rgba(214, 21, 253, 0.75);
+}
+
+.nav-link:hover {
+  background-color:#07f7f7;
+ }
+
+.navbar-brand:hover {
+color: #07f7f7;
+}
+a {
+  color: rgb(231, 231, 231);
+  font-size: 15px;
+}
+
+img{
+  width:110%;
+  height:110%;
+}
+.active, .panel:hover {
+  border-color:#07f7f7;
+  border-style: solid;
+  
+}
+.vizualization {
+  width:45%;
+  height:55%;
+}
+
+.title {
+  color: #07f757;
+  font-family: Verdana;
+  font-weight: bolder;
+  padding-top: 10px;
+}
+
+p {
+color: rgb(174, 24, 219);
+font-family: 'sans-serif';
+font-size: 16px;
+}
+
+.box {
+  margin-top: 50px;
+  margin-bottom: 60px;
+  padding: 10px 30px 10px;
+  color: #ffffff;
+  background-image: linear-gradient(rgb(255, 239, 239) , rgb(206, 195, 255));
+
+}
